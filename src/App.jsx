@@ -12,7 +12,7 @@ function App() {
   ]
   return (
     <>
-     <h1>React core concept</h1>
+     <h2>React core concept</h2>
 
     {/* {
       actors.map(actor => <Actor actor ={actor}></Actor>)
